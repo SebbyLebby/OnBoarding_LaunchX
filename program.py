@@ -11,7 +11,7 @@ product = sum * 2
 print("El producto es:", product)
 
 #----Tipos de datos----
-planetas_en_el_sistema_solar = 8 #int, plutón ahora es un planetoide.
+planetas_en_el_sistema_solar = 8 #int, plutón ahora es un planeta enano.
 distancia_a_alfa_centauri = 4.367 #float, distancia en años luz
 puede_despegar = True
 transbordador_que_aterrizo_en_la_luna = "Apollo 11" #string
